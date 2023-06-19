@@ -8,6 +8,7 @@ With a user-friendly interface and intuitive features, ShopSquare aims to revolu
 Inspired by popular retail chains like Walmart, this project caters to the needs of three main stakeholders: Administrator, Vendor, and Customer.
 
 **Introduction**
+
 ShopSquare is an e-commerce platform developed to offer a seamless shopping experience. 
 It allows customers to browse, select, and purchase a wide variety of products, ranging from groceries to electronics and clothing. 
 The project draws inspiration from successful retail chains like Walmart, aiming to create an intuitive and user-friendly shopping portal.
@@ -47,10 +48,12 @@ They can request to list their products and provide details such as product name
 Vendors can also access the purchase history for their products.
 
 **Customer**
+
 Customers are the end-users of the platform who browse and purchase various products. 
 They can browse through the available products, make purchases, receive order confirmations, sign up with personal details and access purchase history.
 
 **Usage**
+
 Once the application is up and running, stakeholders can perform their respective actions through the user interface provided. 
 The Administrator can log in, view products and customer purchases. 
 Vendors can request to list their products, add or update product details, and view their purchase history. 
