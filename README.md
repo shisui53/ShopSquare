@@ -1,6 +1,3 @@
-# vital-route-7034
-
-
 **ShopSquare - The Ultimate Shopping Platform (my mall)**
 
 ShopSquare is a comprehensive e-commerce platform that offers a one-stop shopping experience for a wide range of products. 
