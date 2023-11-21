@@ -1,4 +1,4 @@
-**ShopSquare - The Ultimate Shopping Platform (my mall)**
+**ShopSquare - The Ultimate Shopping Platform **
 
 ShopSquare is a comprehensive e-commerce platform that offers a one-stop shopping experience for a wide range of products. 
 With a user-friendly interface and intuitive features, ShopSquare aims to revolutionize online shopping by providing a seamless and convenient experience for customers. 
